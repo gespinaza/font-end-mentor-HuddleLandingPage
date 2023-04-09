@@ -42,15 +42,15 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### What I learned
 
-- I leaned hot to use grid layouts for this challenge and how to manage the responsive web design in a newbie way.
+- I learned how to use grid layouts for this challenge and how to manage the responsive web design in a newbie way.
 - Also keep learning about the basics.
 
 
 
 ### Continued development
 
-My challenge is to complete 10 newbie projects and then move to the next ones using bootstrap o js.
-In this project i didn't pay attention to the big screens (What happens when you move your winndow to a monitor screen). Still have to manage that missing task.
+My challenge is to complete 10 newbie projects and then move to the next ones using bootstrap or js.
+In this project i didn't pay attention to the big screens (What happens when you move your winndow to a monitor screen?). Still have to manage that missing task.
 
 ### Useful resources
 
